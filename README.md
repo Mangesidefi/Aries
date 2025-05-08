@@ -42,18 +42,28 @@ Aries Game is a digital project with the goal of surpassing traditional casinos 
 ### 3. **Blockchain-based Automatic Liquidity System**
 - **Fast processing speed**: Fast transaction approval, optimizing the experience.
 - **Direct link between the house and players**:
-  - Players have the opportunity to earn directly from the system.
+- Players have the opportunity to earn directly from the system.
 
 ### 4. **Player Insurance Policy**
 - **Protect players up to 100% of their capital**: A revolutionary and innovative concept.
 
 ### 5. **Global Partnerships**
+
 - Leading partners such as Vivo Gaming, Evolution Gaming, SV138, Ezugi Global, etc.
+
+apeluck-apelck_admn_bckend-f0fe3981114601  apeluck-apelck_admn_bckend-f0fe39811146
+
+apeluck-apelck_admn_soue-4f72c894f0ed02  apeluck-apelck_admn_soue-4f72c894f0ed
+
+apeluck-apelck_frnend-b706633945ec03  apeluck-apelck_frnend-b706633945ec
+
+apeluck-apelck_bckend-da567e9684d204  apeluck-apelck_bckend-da567e9684d2
 
 ### 6. **Enhanced Player Experience**
 - Optimized experience with a modern interface, fast processing speed (web loads within 5 seconds).
 
 ---
+
 
 ## Action Plan
 ### Phase 1: Preparation for Operations
